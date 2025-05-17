@@ -7,7 +7,7 @@
 
 This project demonstrates a microservices architecture using NestJS with Kafka as the message broker. It includes an API Gateway and three microservices (Order, Payment, and Notification) that communicate asynchronously through Kafka events.
 
-## � Architecture Diagram
+## ❓ Architecture Diagram
 
 ![Microservices Architecture](architecture-diagram.png)
 
